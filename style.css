@@ -1,0 +1,264 @@
+body {
+    background-color: rgb(0, 52, 87);
+  }
+
+.div1 {
+  background-color: transparent;
+  height: 24px;
+}
+
+.div2 {
+    background-color:  rgb(0, 39, 65);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 20px;
+    width: 88%;
+    height: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div2 .imagecollection .img1 {
+  display: table;
+  margin-left: 5px;
+  margin-right: auto;
+  margin-top: 16px;
+  width: 252px;
+  height: 145px;
+  border: 2px solid white;
+  border-radius: 4px;
+  overflow: visible;
+}
+
+.div2 .imagecollection .img2 {
+  display: table;
+  margin-left: 5px;
+  margin-right: auto;
+  margin-top: 16px;
+  width: 252px;
+  height: 145px;
+  border: 2px solid white;
+  border-radius: 4px;
+  overflow: visible;
+}
+
+.div2 .imagecollection .img3 {
+  display: table;
+  margin-left: 5px;
+  margin-right: auto;
+  margin-top: 16px;
+  width: 252px;
+  height: 145px;
+  border: 2px solid white;
+  border-radius: 4px;
+  overflow: visible;
+}
+
+.div2 .imagecollection .img4 {
+  display: table;
+  margin-left: 5px;
+  margin-right: auto;
+  margin-top: 16px;
+  width: 252px;
+  height: 145px;
+  border: 2px solid white;
+  border-radius: 4px;
+  overflow: visible;
+}
+
+.div2 .imagecollection .img5 {
+  display: table;
+  margin-left: 5px;
+  margin-right: auto;
+  margin-top: 16px;
+  width: 252px;
+  height: 145px;
+  border: 2px solid white;
+  border-radius: 4px;
+  overflow: visible;
+}
+
+.div2 .aboutp {
+  overflow-inline: inherit;
+  padding: 0px 0px;
+}
+
+.div2 .aboutp .button {
+  display: block;
+  margin-left: 1450px;
+  margin-right: auto;
+  margin-top: 26px;
+  height: 40px;
+  width: 160px;
+  color: white;
+  border-radius: 15px;
+  background-color: transparent;
+  border-color: white;
+  position: absolute;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.div2 .aboutp .button:hover {
+  display: block;
+  margin-left: 1450px;
+  margin-right: auto;
+  margin-top: 26px;
+  height: 40px;
+  width: 160px;
+  color: white;
+  border-radius: 15px;
+  background-color: transparent;
+  border-color: #dadada;
+  position: absolute;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.div2 .aboutp .title {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 30px;
+  position: absolute;
+  padding-left: 810px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div2 .aboutp .desctitle {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 24px;
+  position: absolute;
+  text-align: center;
+  margin-left: 375px;
+  margin-right: auto;
+  margin-top: 435px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .description {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 24px;
+  position: absolute;
+  text-align: center;
+  margin-left: 364px;
+  margin-right: auto;
+  margin-top: 500px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .features {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 24px;
+  position: absolute;
+  text-align: center;
+  margin-left: 375px;
+  margin-right: auto;
+  margin-top: 200px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .feature1 {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 18px;
+  position: absolute;
+  text-align: center;
+  margin-left: 550px;
+  margin-right: auto;
+  margin-top: 205px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .feature2 {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 18px;
+  position: absolute;
+  text-align: center;
+  margin-left: 735px;
+  margin-right: auto;
+  margin-top: 205px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .feature3 {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 18px;
+  position: absolute;
+  text-align: center;
+  margin-left: 980px;
+  margin-right: auto;
+  margin-top: 205px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .feature4 {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 18px;
+  position: absolute;
+  text-align: center;
+  margin-left: 1100px;
+  margin-right: auto;
+  margin-top: 205px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .feature5 {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 18px;
+  position: absolute;
+  text-align: center;
+  margin-left: 550px;
+  margin-right: auto;
+  margin-top: 270px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .feature6 {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 18px;
+  position: absolute;
+  text-align: center;
+  margin-left: 735px;
+  margin-right: auto;
+  margin-top: 270px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .feature7 {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 18px;
+  position: absolute;
+  text-align: center;
+  margin-left: 980px;
+  margin-right: auto;
+  margin-top: 270px;
+  max-width: 1200px;
+}
+
+.div2 .aboutp .feature8 {
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 18px;
+  position: absolute;
+  text-align: center;
+  margin-left: 1100px;
+  margin-right: auto;
+  margin-top: 270px;
+  max-width: 1200px;
+}
+
+.div2 .copyright {
+  color: white;
+  font-size: 16px;
+  font-family: 'Noto Sans KR', sans-serif;
+  float: right;
+}
